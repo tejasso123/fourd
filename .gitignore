@@ -1,0 +1,11 @@
+# Ignore environment variable files
+.env
+.env.dev
+.env.prod
+.env.qa
+venv
+settings.json
+__pycache__
+service_account.json
+.vscode
+.idea
